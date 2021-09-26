@@ -1,18 +1,15 @@
 # todos_app
 
-A new Flutter project.
+This App Allows you to Add, Delete, and Update Tasks.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+Home screen
 ![todosapp p1](https://user-images.githubusercontent.com/81175765/134822575-20819c44-06a9-43ba-b7eb-33db3da3f6ee.jpeg)
+
+Tasks with floating action button to Add New Tasks
+![todosapp p2](https://user-images.githubusercontent.com/81175765/134822578-712fcde5-59c9-423d-a3c2-320190630a22.jpeg)
+
+Add screen
+![todosapp p3](https://user-images.githubusercontent.com/81175765/134822588-fc1440ef-f0fa-4115-8701-7a9b8f0985ac.jpeg)
+
+Update screen
+![todosapp p4](https://user-images.githubusercontent.com/81175765/134822592-abfeb3b1-d92d-44f3-a1ea-de89ea751b31.jpeg)
